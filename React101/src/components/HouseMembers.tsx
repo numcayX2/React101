@@ -298,7 +298,7 @@ export default function HouseMembers() {
             <div className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  ตำแหน่งรัฐมนตรี
+                  ตำแหน่ง
                 </label>
                 <input
                   className="w-full rounded-xl border border-gray-300 bg-white px-3 py-2.5 text-sm focus:border-emerald-500 focus:ring-2 focus:ring-emerald-400/60"
